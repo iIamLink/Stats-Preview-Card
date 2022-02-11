@@ -10,18 +10,6 @@
     font-variant: 'Lexend Deca';
 }
 
-body {
-    display: flex;
-    min-height: 100vh;
-    max-width: 100vw;
-    background-color: hsl(233, 47%, 7%) ;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-}
-
-@media only screen and (min-width: 320px) and (max-width: 1200px) {
-
     body {
         display: flex;
         min-height: 100vh;
@@ -129,4 +117,3 @@ body {
         font-size: 14px;
         font-family: 'Lexend Deca';
     }
-}
